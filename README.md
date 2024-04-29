@@ -1,4 +1,3 @@
-# Electrol-Bonds-Python
 
 # Electoral Bond Data :
 
